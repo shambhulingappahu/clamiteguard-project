@@ -1,0 +1,41 @@
+CSV:
+Mangalore
+Kodagu
+Kasaragodu
+Raichur
+Gulbarga
+Madikeri
+Hassan
+Mysuru
+Chikmangaluru
+Bangalore
+Davangere
+
+GEO:
+Bagalkot
+Bangalore Rural
+Bangalore Urban
+Belgaum
+Bellary
+Bidar
+Bijapur
+Chamrajnagar
+Chikmagalur
+Chitradurga
+Dakshin Kannad
+Davanagere
+Dharwad
+Gadag
+Gulbarga
+Hassan
+Haveri
+Kodagu
+Kolar
+Koppal
+Mandya
+Mysore
+Raichur
+Shimoga
+Tumkur
+Udupi
+Uttar Kannand
